@@ -1,0 +1,7 @@
+A:\projects\c# practice\get user age\get user age\bin\Debug\get user age.exe.config
+A:\projects\c# practice\get user age\get user age\bin\Debug\get user age.exe
+A:\projects\c# practice\get user age\get user age\bin\Debug\get user age.pdb
+A:\projects\c# practice\get user age\get user age\obj\Debug\get user age.csproj.AssemblyReference.cache
+A:\projects\c# practice\get user age\get user age\obj\Debug\get user age.csproj.CoreCompileInputs.cache
+A:\projects\c# practice\get user age\get user age\obj\Debug\get user age.exe
+A:\projects\c# practice\get user age\get user age\obj\Debug\get user age.pdb
