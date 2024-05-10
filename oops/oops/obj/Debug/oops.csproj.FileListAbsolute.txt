@@ -1,0 +1,7 @@
+A:\projects\c# practice\oops\oops\bin\Debug\oops.exe.config
+A:\projects\c# practice\oops\oops\bin\Debug\oops.exe
+A:\projects\c# practice\oops\oops\bin\Debug\oops.pdb
+A:\projects\c# practice\oops\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+A:\projects\c# practice\oops\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+A:\projects\c# practice\oops\oops\obj\Debug\oops.exe
+A:\projects\c# practice\oops\oops\obj\Debug\oops.pdb
