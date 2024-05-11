@@ -1,0 +1,7 @@
+A:\projects\c# practice\max element\max element\bin\Debug\max element.exe.config
+A:\projects\c# practice\max element\max element\bin\Debug\max element.exe
+A:\projects\c# practice\max element\max element\bin\Debug\max element.pdb
+A:\projects\c# practice\max element\max element\obj\Debug\max element.csproj.AssemblyReference.cache
+A:\projects\c# practice\max element\max element\obj\Debug\max element.csproj.CoreCompileInputs.cache
+A:\projects\c# practice\max element\max element\obj\Debug\max element.exe
+A:\projects\c# practice\max element\max element\obj\Debug\max element.pdb

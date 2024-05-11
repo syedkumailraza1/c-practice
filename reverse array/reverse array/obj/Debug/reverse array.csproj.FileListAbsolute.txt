@@ -1,0 +1,7 @@
+A:\projects\c# practice\reverse array\reverse array\bin\Debug\reverse array.exe.config
+A:\projects\c# practice\reverse array\reverse array\bin\Debug\reverse array.exe
+A:\projects\c# practice\reverse array\reverse array\bin\Debug\reverse array.pdb
+A:\projects\c# practice\reverse array\reverse array\obj\Debug\reverse array.csproj.AssemblyReference.cache
+A:\projects\c# practice\reverse array\reverse array\obj\Debug\reverse array.csproj.CoreCompileInputs.cache
+A:\projects\c# practice\reverse array\reverse array\obj\Debug\reverse array.exe
+A:\projects\c# practice\reverse array\reverse array\obj\Debug\reverse array.pdb

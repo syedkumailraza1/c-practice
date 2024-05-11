@@ -1,0 +1,7 @@
+A:\projects\c# practice\sum of array\sum of array\bin\Debug\sum of array.exe.config
+A:\projects\c# practice\sum of array\sum of array\bin\Debug\sum of array.exe
+A:\projects\c# practice\sum of array\sum of array\bin\Debug\sum of array.pdb
+A:\projects\c# practice\sum of array\sum of array\obj\Debug\sum of array.csproj.AssemblyReference.cache
+A:\projects\c# practice\sum of array\sum of array\obj\Debug\sum of array.csproj.CoreCompileInputs.cache
+A:\projects\c# practice\sum of array\sum of array\obj\Debug\sum of array.exe
+A:\projects\c# practice\sum of array\sum of array\obj\Debug\sum of array.pdb

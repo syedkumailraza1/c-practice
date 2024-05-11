@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\projects\\c# practice\\sum of array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5BA1E7-B299-4C6E-9765-A2F4595F825F}|sum of array\\sum of array.csproj|a:\\projects\\c# practice\\sum of array\\sum of array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5BA1E7-B299-4C6E-9765-A2F4595F825F}|sum of array\\sum of array.csproj|solutionrelative:sum of array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\projects\\c# practice\\sum of array\\sum of array\\Program.cs",
+              "RelativeDocumentMoniker": "sum of array\\Program.cs",
+              "ToolTip": "A:\\projects\\c# practice\\sum of array\\sum of array\\Program.cs",
+              "RelativeToolTip": "sum of array\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T05:24:22.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

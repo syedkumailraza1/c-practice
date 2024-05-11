@@ -1,0 +1,7 @@
+A:\projects\c# practice\palindrome number\palindrome number\bin\Debug\palindrome number.exe.config
+A:\projects\c# practice\palindrome number\palindrome number\bin\Debug\palindrome number.exe
+A:\projects\c# practice\palindrome number\palindrome number\bin\Debug\palindrome number.pdb
+A:\projects\c# practice\palindrome number\palindrome number\obj\Debug\palindrome number.csproj.AssemblyReference.cache
+A:\projects\c# practice\palindrome number\palindrome number\obj\Debug\palindrome number.csproj.CoreCompileInputs.cache
+A:\projects\c# practice\palindrome number\palindrome number\obj\Debug\palindrome number.exe
+A:\projects\c# practice\palindrome number\palindrome number\obj\Debug\palindrome number.pdb
